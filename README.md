@@ -2,7 +2,7 @@
 
 Una aplicación del clima construida desde cero con JavaScript Puro (Vanilla JS).
 
-Este proyecto fue desarrollado como entrenamiento intensivo de "Deep Work" para dominar los fundamentos lógicos y arquitectónicos de JavaScript moderno antes de dar el salto a React.
+Este proyecto fue desarrollado como entrenamiento intensivo de "Deep Work" para dominar los fundamentos lógicos y arquitectónicos de JavaScript moderno para el manejo efectivo de React.
 
 ## 🧠 Foco del Proyecto: Lógica > Diseño
 
